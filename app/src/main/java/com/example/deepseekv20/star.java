@@ -1,4 +1,4 @@
 package com.example.deepseekv20;
 
-public class moon {
+public class star {
 }

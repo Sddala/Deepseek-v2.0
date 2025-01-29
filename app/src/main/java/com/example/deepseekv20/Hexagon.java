@@ -1,8 +1,6 @@
 package com.example.deepseekv20;
 
-public class Shape {
+public Class Hexagon extends Shape{
     int x;
     int y;
-
-    String color = "black";
 }
